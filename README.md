@@ -1,16 +1,16 @@
-## Hi there 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ABU-BAKAR-S)
 
 
-**ABU-BAKAR-S/ABU-BAKAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I am Abu Bakar Siddik
+#### I am Front End Web Developer
+![I am Front End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+Self learners, Hard working mentality, Responsible. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skills:   REACT / JS / HTML / CSS / Tailwind CSS / C / C++ / C#
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React 
+
+
 
